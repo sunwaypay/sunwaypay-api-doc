@@ -1,7 +1,5 @@
-#
-Sunwaypay API 文档
+# Sunwaypay API 文档
 
----
 
 ## 1.文档说明
 
